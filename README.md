@@ -11,3 +11,6 @@ I was able to practice using anchor tags to navigate to each page of my site. I 
 I know this site is not perfect, but I hope to return and make edits when I increase my knowledge of coding.
 
 Thanks for reading!
+
+Update:
+I have learned a little css and have added some styling. Still not perfect but it is coming along!
