@@ -1,0 +1,32 @@
+
+
+
+h1 {
+    color: #96ceb4;
+    background-color: white;
+       }
+
+body {
+    background-color: hsl(47, 74%, 88%);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2018/07/25/15/52/design-3561661_1280.jpg");
+
+}
+
+.recipelinks {
+    color: lightpink;
+    list-style-type: none;
+    padding: 0;
+     
+}
+
+#listbackground {
+    background-color: white;
+    opacity: 0.75;
+}
+
+footer {
+    background-color: white;
+    color: #96ceb4
+}
